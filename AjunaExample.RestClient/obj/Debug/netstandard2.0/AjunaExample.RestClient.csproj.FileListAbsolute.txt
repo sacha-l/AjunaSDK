@@ -1,0 +1,13 @@
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/bin/Debug/netstandard2.0/AjunaExample.RestClient.deps.json
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/bin/Debug/netstandard2.0/AjunaExample.RestClient.dll
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/bin/Debug/netstandard2.0/AjunaExample.RestClient.pdb
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/bin/Debug/netstandard2.0/AjunaExample.NetApiExt.dll
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/bin/Debug/netstandard2.0/AjunaExample.NetApiExt.pdb
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/obj/Debug/netstandard2.0/AjunaExample.RestClient.csproj.AssemblyReference.cache
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/obj/Debug/netstandard2.0/AjunaExample.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/obj/Debug/netstandard2.0/AjunaExample.RestClient.AssemblyInfoInputs.cache
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/obj/Debug/netstandard2.0/AjunaExample.RestClient.AssemblyInfo.cs
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/obj/Debug/netstandard2.0/AjunaExample.RestClient.csproj.CoreCompileInputs.cache
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/obj/Debug/netstandard2.0/AjunaExample.RestClient.csproj.CopyComplete
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/obj/Debug/netstandard2.0/AjunaExample.RestClient.dll
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/obj/Debug/netstandard2.0/AjunaExample.RestClient.pdb

@@ -1,0 +1,10 @@
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApi/bin/Debug/netstandard2.0/AjunaExample.NetApi.deps.json
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApi/bin/Debug/netstandard2.0/AjunaExample.NetApi.dll
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApi/bin/Debug/netstandard2.0/AjunaExample.NetApi.pdb
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApi/obj/Debug/netstandard2.0/AjunaExample.NetApi.csproj.AssemblyReference.cache
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApi/obj/Debug/netstandard2.0/AjunaExample.NetApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApi/obj/Debug/netstandard2.0/AjunaExample.NetApi.AssemblyInfoInputs.cache
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApi/obj/Debug/netstandard2.0/AjunaExample.NetApi.AssemblyInfo.cs
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApi/obj/Debug/netstandard2.0/AjunaExample.NetApi.csproj.CoreCompileInputs.cache
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApi/obj/Debug/netstandard2.0/AjunaExample.NetApi.dll
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApi/obj/Debug/netstandard2.0/AjunaExample.NetApi.pdb

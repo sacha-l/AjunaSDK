@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/AjunaExample.RestClient.csproj": {}
+  },
+  "projects": {
+    "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApiExt/AjunaExample.NetApiExt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApiExt/AjunaExample.NetApiExt.csproj",
+        "projectName": "AjunaExample.NetApiExt",
+        "projectPath": "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApiExt/AjunaExample.NetApiExt.csproj",
+        "packagesPath": "/Users/sachalansky/.nuget/packages/",
+        "outputPath": "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApiExt/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sachalansky/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Ajuna.NetApi": {
+              "target": "Package",
+              "version": "[0.2.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/6.0.104_1/libexec/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/AjunaExample.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/AjunaExample.RestClient.csproj",
+        "projectName": "AjunaExample.RestClient",
+        "projectPath": "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/AjunaExample.RestClient.csproj",
+        "packagesPath": "/Users/sachalansky/.nuget/packages/",
+        "outputPath": "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sachalansky/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApiExt/AjunaExample.NetApiExt.csproj": {
+                "projectPath": "/Users/sachalansky/Documents/AjunaSDK/AjunaExample.NetApiExt/AjunaExample.NetApiExt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Ajuna.ServiceLayer.Model": {
+              "target": "Package",
+              "version": "[0.1.25, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/6.0.104_1/libexec/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

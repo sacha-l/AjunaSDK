@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SubstrateNET.NetApi
+build_property.ProjectDir = /Users/sachalansky/Documents/GitHub/Ajuna.SDK.Demos/SubstrateNET/SubstrateNET.NetApi/

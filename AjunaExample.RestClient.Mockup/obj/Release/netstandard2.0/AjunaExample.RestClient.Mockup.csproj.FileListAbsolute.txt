@@ -1,0 +1,15 @@
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/bin/Release/netstandard2.0/AjunaExample.RestClient.Mockup.deps.json
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/bin/Release/netstandard2.0/AjunaExample.RestClient.Mockup.dll
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/bin/Release/netstandard2.0/AjunaExample.RestClient.Mockup.pdb
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/bin/Release/netstandard2.0/AjunaExample.NetApiExt.dll
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/bin/Release/netstandard2.0/AjunaExample.RestClient.dll
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/bin/Release/netstandard2.0/AjunaExample.RestClient.pdb
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/bin/Release/netstandard2.0/AjunaExample.NetApiExt.pdb
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/obj/Release/netstandard2.0/AjunaExample.RestClient.Mockup.csproj.AssemblyReference.cache
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/obj/Release/netstandard2.0/AjunaExample.RestClient.Mockup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/obj/Release/netstandard2.0/AjunaExample.RestClient.Mockup.AssemblyInfoInputs.cache
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/obj/Release/netstandard2.0/AjunaExample.RestClient.Mockup.AssemblyInfo.cs
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/obj/Release/netstandard2.0/AjunaExample.RestClient.Mockup.csproj.CoreCompileInputs.cache
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/obj/Release/netstandard2.0/AjunaExample.RestClient.Mockup.csproj.CopyComplete
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/obj/Release/netstandard2.0/AjunaExample.RestClient.Mockup.dll
+/Users/sachalansky/Documents/AjunaSDK/AjunaExample.RestClient.Mockup/obj/Release/netstandard2.0/AjunaExample.RestClient.Mockup.pdb

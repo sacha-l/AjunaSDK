@@ -1,0 +1,5 @@
+/Users/sachalansky/Documents/AjunaSDK/Demos.BalanceTransfer/obj/Debug/net6.0/Demos.BalanceTransfer.csproj.AssemblyReference.cache
+/Users/sachalansky/Documents/AjunaSDK/Demos.BalanceTransfer/obj/Debug/net6.0/Demos.BalanceTransfer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sachalansky/Documents/AjunaSDK/Demos.BalanceTransfer/obj/Debug/net6.0/Demos.BalanceTransfer.AssemblyInfoInputs.cache
+/Users/sachalansky/Documents/AjunaSDK/Demos.BalanceTransfer/obj/Debug/net6.0/Demos.BalanceTransfer.AssemblyInfo.cs
+/Users/sachalansky/Documents/AjunaSDK/Demos.BalanceTransfer/obj/Debug/net6.0/Demos.BalanceTransfer.csproj.CoreCompileInputs.cache
